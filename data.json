@@ -1,0 +1,7 @@
+{
+    "items": [
+        {"name": "Bible Study", "count": 10},
+        {"name": "Charity", "count": 20},
+        {"name": "Community Service", "count": 30}
+    ]
+}
